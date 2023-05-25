@@ -1,0 +1,7 @@
+﻿  Function.cpp
+C:\Users\DELL\source\repos\Project6\Project6\Function.cpp(1139,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Project6\Project6\Function.cpp(1185,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Project6\Project6\Function.cpp(1356,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Project6\Project6\Function.cpp(1369,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Project6\Project6\Function.cpp(1382,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project6.vcxproj -> C:\Users\DELL\source\repos\Project6\x64\Debug\Project6.exe
